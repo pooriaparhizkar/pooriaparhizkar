@@ -31,12 +31,10 @@
 
 <br/>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,html,css,js,ts,react,jquery,bootstrap,sass,materialui" /><br>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" /><br>
     <img src="https://skillicons.dev/icons?i=git,linux,java,python" /><br>
     <img src="https://skillicons.dev/icons?i=,kotlin,unity" /><br>
-  </a>
 </p>
 
 <!-- <br/>
@@ -116,12 +114,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Pouorix's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pouorix&show_icons=true&count_private=true&include_all_commits=true&theme=monokai&hide_border=true" width="434.5"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Pouorix's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouorix&langs_count=8&layout=compact&theme=monokai&hide_border=true" width="314"/>
-  </a> 
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
