@@ -31,10 +31,12 @@
 
 <br/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,js,ts,react,jquery,bootstrap,sass,materialui" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=git,linux,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=,kotlin,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=,html,css,js,ts,react,redux,jquery,bootstrap,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,matlab,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,bash,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=,kotlin,unity,androidstudio" /><br>
+     <img src="https://skillicons.dev/icons?i=,vscode" /><br>
+    
 </p>
 
 <!-- <br/>
