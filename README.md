@@ -5,12 +5,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20%20developer;Experienced%20React.JS%20Developer;+3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a ><img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20%20developer;Experienced%20React.JS%20Developer;+3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/pouorix/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-pouorix-blue?style=flat-square&logo=Linkedin&logoColor=white" height="20"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/pouorix/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-pouorix-blue?style=flat-square&logo=Linkedin&logoColor=white" height="20"/></a>
   <a href="mailto:pouorix@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-pouorix-c14438?style=flat-square&logo=Gmail&logoColor=white" height="20"/></a>
   <a href="https://twitter.com/pouorix"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/pouorix-2CA5E0?style=flat-square&logo=twitter&logoColor=white" height="20"/></a>
   <a href="https://www.instagram.com/pouorix/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-pouorix-fb3958?style=flat-square&logo=instagram&logoColor=white" height="20"/></a>
