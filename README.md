@@ -21,7 +21,6 @@
 
 ## 👤 Summary
 
-<hr/>
 <p>Software Developer and Technical Leader using Agile Methodologies, with Expertise in Frontend Development and Over 3 Years of Work Experience. Tremendously Interested in Coding and Learning New Technologies, Analyzing, and Systems Thinking.</p>
 <p>Collaborated with 30+ Coworkers on 50+ Diverse Projects. </p>
 <p>Enjoy Working with Team Members to Ensure Workloads are Efficiently Resolved and Personally Handling More Responsibility when Necessary. Ready to Bring my Immense Passion and Ambition for Coding and Collaboration to a Talented Engineering Team for Developing High-Quality Solutions and Programs.</p>
@@ -30,7 +29,6 @@
 
 ## 👨‍💻 My favorite Languages and tools
 
-<hr/>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,8 +42,6 @@
 <!-- <br/>
 
 ## 🛠️ Other Languages and tools
-<hr/>
-
 ### 👨‍💻 Programming and markup languages
 
 <p>
@@ -117,7 +113,6 @@
 
 ## 📊 Stats
 
-<hr/>
 <br/>
 
 <p align="center">
