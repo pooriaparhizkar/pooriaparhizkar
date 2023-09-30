@@ -36,7 +36,7 @@
 
 <br/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,js,ts,react,redux,jquery,bootstrap,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=,html,css,js,ts,react,angular,jquery,bootstrap,sass" /><br>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,matlab,arduino" /><br>
     <img src="https://skillicons.dev/icons?i=git,linux,docker,bash,powershell" /><br>
     <img src="https://skillicons.dev/icons?i=,kotlin,unity,androidstudio" /><br>
