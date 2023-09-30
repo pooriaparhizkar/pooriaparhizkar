@@ -20,7 +20,7 @@
 <br/>
 
 <p align="center">
-  <a target="_blank" href="https://pouorix.github.io/">Please visit My Porfolio , Click Here </a>
+  <a target="_blank" href="https://pouorix.github.io/">For visiting My Porfolio, Click Here </a>
 </p>
 <br/>
 
