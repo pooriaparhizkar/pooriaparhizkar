@@ -10,8 +10,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/pouorix/" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-pouorix-blue?style=flat-square&logo=Linkedin&logoColor=white" height="20"/></a>
-  <a href="mailto:pouorix@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-pouorix-c14438?style=flat-square&logo=Gmail&logoColor=white" height="20"/></a>
+  <a href="https://www.linkedin.com/in/pooriaparhizkar/" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-pouorix-blue?style=flat-square&logo=Linkedin&logoColor=white" height="20"/></a>
+  <a href="mailto:pooriaparhizkar@yahoo.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-pouorix-c14438?style=flat-square&logo=Gmail&logoColor=white" height="20"/></a>
   <a href="https://twitter.com/pouorix"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/pouorix-2CA5E0?style=flat-square&logo=twitter&logoColor=white" height="20"/></a>
   <a href="https://www.instagram.com/pouorix/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-pouorix-fb3958?style=flat-square&logo=instagram&logoColor=white" height="20"/></a>
   <a href="https://t.me/pouorix"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/pouorix-0088CC?style=flat-square&logo=telegram&logoColor=white" height="20"/></a>
@@ -20,7 +20,7 @@
 <br/>
 
 <p align="center">
-  <a target="_blank" href="https://pouorix.github.io/">For visiting My Porfolio, Click Here </a>
+  <a target="_blank" href="https://pooriaparhizkar.github.io/">For visiting My Portfolio, Click Here </a>
 </p>
 <br/>
 
@@ -121,8 +121,8 @@
 <br/>
 
 <p align="center">
-    <img alt="Pouorix's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pouorix&show_icons=true&count_private=true&include_all_commits=true&theme=monokai&hide_border=true" width="434.5"/>
-    <img alt="Pouorix's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouorix&langs_count=8&layout=compact&theme=monokai&hide_border=true" width="314"/>
+    <img alt="Pooria Parhizkar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pooriaparhizkar&show_icons=true&count_private=true&include_all_commits=true&theme=monokai&hide_border=true" width="434.5"/>
+    <img alt="Pooria Parhizkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriaparhizkar&langs_count=8&layout=compact&theme=monokai&hide_border=true" width="314"/>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
