@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/pooriaparhizkar/" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-pouorix-blue?style=flat-square&logo=Linkedin&logoColor=white" height="20"/></a>
   <a href="mailto:pooriaparhizkar@yahoo.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-pouorix-c14438?style=flat-square&logo=Gmail&logoColor=white" height="20"/></a>
   <a href="https://twitter.com/pouorix"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/pouorix-2CA5E0?style=flat-square&logo=twitter&logoColor=white" height="20"/></a>
-  <a href="https://www.instagram.com/pouorix/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-pouorix-fb3958?style=flat-square&logo=instagram&logoColor=white" height="20"/></a>
-  <a href="https://t.me/pouorix"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/pouorix-0088CC?style=flat-square&logo=telegram&logoColor=white" height="20"/></a>
+  <a href="https://www.instagram.com/pooriaparhizkar/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-pouorix-fb3958?style=flat-square&logo=instagram&logoColor=white" height="20"/></a>
+  <a href="https://t.me/pooriaparhizkar"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/pouorix-0088CC?style=flat-square&logo=telegram&logoColor=white" height="20"/></a>
  <a href="http://discordapp.com/users/544596927019483156"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/pouorix-5865F2?style=flat-square&logo=discord&logoColor=white" height="20"/></a>
 </p>
 <br/>
